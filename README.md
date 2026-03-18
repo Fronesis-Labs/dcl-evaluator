@@ -99,6 +99,7 @@ Named after Gottfried Wilhelm Leibniz — mathematician, logician, pioneer of de
 - IP & Patents: [leibniz.fronesislabs.com/ip-patents.html](https://leibniz.fronesislabs.com/ip-patents.html)
 - MCP endpoint: [mcp.fronesislabs.com](https://mcp.fronesislabs.com/health)
 - X: [@keykeeper42](https://x.com/keykeeper42)
+- White Paper: [WHITEPAPER.md](./WHITEPAPER.md) · [leibniz.fronesislabs.com/whitepaper.html](https://leibniz.fronesislabs.com/whitepaper.html)
 
 ---
 
