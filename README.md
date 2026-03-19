@@ -14,6 +14,8 @@ Every decision your AI agent makes — sealed, verified, auditable.
 
 DCL Evaluator is the first implementation of [Leibniz Layer™](https://leibniz.fronesislabs.com) — a cryptographic verification protocol for AI agent decisions. It brings deterministic, tamper-evident audit trails to any LLM-powered system.
 
+[![DCL Evaluator MCP server](https://glama.ai/mcp/servers/Fronesis-Labs/dcl-evaluator/badges/card.svg)](https://glama.ai/mcp/servers/Fronesis-Labs/dcl-evaluator)
+
 ---
 
 ## Why DCL Evaluator
