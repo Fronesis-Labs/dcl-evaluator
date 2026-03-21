@@ -37,6 +37,24 @@ DCL Evaluator solves this with a simple principle borrowed from cryptography: **
 
 ---
 
+## 💳 Pay-per-Audit via x402
+
+DCL Evaluator supports the [x402 payment protocol](https://x402.org).  
+AI agents can request audits autonomously — no API keys, just HTTP 402 + USDC on Base.
+
+**Endpoint:** `https://x402.fronesislabs.com`  
+**Network:** Base Mainnet (eip155:8453)
+
+| Tool | Price | Margin |
+|------|-------|--------|
+| Quick Scan | $1 USDC | 99% |
+| Standard Audit (4 models) | $5 USDC | 99.4% |
+| Deep Audit + PoC | $15 USDC | 99.3% |
+
+> Any agent that speaks HTTP can pay for and receive a cryptographic audit — no human required.
+
+---
+
 ## Connect via MCP
 ```json
 {
