@@ -1,0 +1,7 @@
+{
+  "name": "DCL Evaluator",
+  "description": "Tamper-evident cryptographic audit trail for LLM outputs. Powered by Leibniz Layer™",
+  "license": "Source-Available",
+  "homepage": "https://fronesislabs.com",
+  "repository": "https://github.com/Fronesis-Labs/dcl-evaluator"
+}
