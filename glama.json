@@ -3,5 +3,28 @@
   "description": "Tamper-evident cryptographic audit trail for LLM outputs. Powered by Leibniz Layer™",
   "license": "Source-Available",
   "homepage": "https://fronesislabs.com",
-  "repository": "https://github.com/Fronesis-Labs/dcl-evaluator"
+  "repository": "https://github.com/Fronesis-Labs/dcl-evaluator",
+  "version": "1.2.0",
+  "server": {
+    "type": "sse",
+    "url": "https://mcp.fronesislabs.com/sse"
+  },
+  "tools": [
+    {
+      "name": "dcl_commit",
+      "description": "Seal an LLM output with SHA-256 hash before action execution (pre-action verification)"
+    },
+    {
+      "name": "dcl_verify",
+      "description": "Verify integrity of a previously committed output by hash"
+    },
+    {
+      "name": "dcl_get_chain",
+      "description": "Retrieve the tamper-evident hash chain"
+    },
+    {
+      "name": "dcl_report",
+      "description": "Generate a cryptographic audit report for a session or hash range"
+    }
+  ]
 }
