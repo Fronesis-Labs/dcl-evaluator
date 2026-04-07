@@ -7,6 +7,7 @@
 ![MCP](https://img.shields.io/badge/MCP-compatible-7dd3fc?style=flat-square)
 ![Offline](https://img.shields.io/badge/offline-capable-22c55e?style=flat-square)
 ![LLMs](https://img.shields.io/badge/LLMs-Claude%20%7C%20GPT--4%20%7C%20Grok%20%7C%20Gemini%20%7C%20Ollama-a78bfa?style=flat-square)
+[![dcl-evaluator MCP server](https://glama.ai/mcp/servers/Fronesis-Labs/dcl-evaluator/badges/score.svg)](https://glama.ai/mcp/servers/Fronesis-Labs/dcl-evaluator)
 
 **Cryptographic audit trail for AI agents. Powered by Leibniz Layer™**
 
