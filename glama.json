@@ -1,6 +1,5 @@
-"maintainers": ["DariRinch"],
-
 {
+  "maintainers": ["DariRinch"],
   "name": "DCL Evaluator",
   "description": "Tamper-evident cryptographic audit trail for LLM outputs. Powered by Leibniz Layer™",
   "license": "Source-Available",
