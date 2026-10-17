@@ -1,3 +1,5 @@
+> **Superseded.** DCL Evaluator is the earlier DCL product, including its MCP endpoint (`/sse`, API key) and its offline desktop audit trail. Agents should use the hosted [DCL Trust Oracle](https://github.com/Fronesis-Labs/dcl-webhook) at `https://mcp.fronesislabs.com/mcp`. References below to `/sse`, API keys, `dcl_commit`, `dcl_verify`, `dcl_get_chain`, `dcl_report`, and fixed prices are historical.
+> 
 # DCL Evaluator
 
 ![Version](https://img.shields.io/badge/version-1.2.0-38bdf8?style=flat-square&logo=github)
